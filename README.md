@@ -1,24 +1,26 @@
-# CV_Example
+# CV_KevinArevalo
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Kevin Santiago Arevalo Trujillo
+**Profesión:** _analista y desarrollador de sofware_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 312 7286648
+- **Email:** [kevinarevalo405@gmail.com](mailto:kevinarevalo405@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2020 - Actualidad)_
+- Aprendiz en analisis y desarollo de sofware.
 
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Coleguio las margaritas** _(2017 - 2023)_
+- tecnico en administracion de empresas
+- diplomado en bachillerato.
+
 
 ## 💡 Habilidades
 - **Habilidad 1**
