@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** +57 312 7286648
 - **Emails:** [kevinarevalo405@gmail.com](mailto:kevinarevalo405@gmail.com) [kevin_arevalo@soy.sena.edu.co](mailto:kevin_arevalo@soy.sena.edu.co) 
-- **LinkedIn:** [linkedin.com/in/kevin-arevalo-aa6303379](https://linkedin.com/in/kevin-arevalo-aa6303379)
+- **LinkedIn:** [linkedin.com/in/kevin-santiago-arevalo-trujillo-aa6303379/](https://linkedin.com/in/kevin-santiago-arevalo-trujillo-aa6303379/)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2020 - Actualidad)_
